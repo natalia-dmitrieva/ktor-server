@@ -1,0 +1,11 @@
+###
+GET http://localhost:8080
+
+<> 2024-01-23T213441.200.txt
+
+###
+GET http://localhost:8080/greetings
+
+<> 2024-01-23T213533.200.html
+
+###
